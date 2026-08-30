@@ -1,0 +1,74 @@
+about:
+  description: Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriCore, Webassembly, XCore and X86.
+  license: NOASSERTION
+  homepage: http://www.capstone-engine.org
+  head: 4195382
+  archived: false
+  latestVersion: 6.0.0-Alpha10
+  collectedAt: 2026-08-30T05:32:23Z
+timeline:
+  created: 2013-11-27
+  lastCommit: 2026-08-29
+  lastRelease: 2026-07-21
+popularity:
+  star: 8979
+  watcher: 285
+  fork: 1717
+  release: 48
+  contributor: 318
+  pullRequest: 274
+  issue: 1431
+language:
+  C: 68293743
+  C#: 1696602
+  Smalltalk: 1384292
+  Python: 1323561
+  Java: 1086975
+  OCaml: 629904
+  C++: 171865
+  Visual Basic 6.0: 104419
+  CMake: 59128
+  Makefile: 35353
+  PowerShell: 20710
+  Batchfile: 13762
+  Ruby: 11973
+  Shell: 10492
+  VBA: 10056
+  Tcl: 1339
+  Jinja: 280
+  Pawn: 221
+  Assembly: 45
+totalLine: 74854720
+recent:
+  last30d:
+    since: 2026-07-31
+    release: 0
+    mergedPR: 18
+    openPR: 6
+    closedIssue: 6
+    openIssue: 10
+    commit: 18
+  last90d:
+    since: 2026-06-01
+    release: 1
+    mergedPR: 58
+    openPR: 12
+    closedIssue: 9
+    openIssue: 13
+    commit: 56
+  last180d:
+    since: 2026-03-03
+    release: 5
+    mergedPR: 109
+    openPR: 14
+    closedIssue: 20
+    openIssue: 16
+    commit: 97
+  last360d:
+    since: 2025-09-04
+    release: 8
+    mergedPR: 159
+    openPR: 18
+    closedIssue: 43
+    openIssue: 29
+    commit: 145
