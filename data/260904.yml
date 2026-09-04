@@ -1,25 +1,27 @@
 about:
-  description: Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriCore, Webassembly, XCore and X86.
+  description:
+  |
+    Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriCore, Webassembly, XCore and X86.
   license: NOASSERTION
   homepage: http://www.capstone-engine.org
-  head: 6c421c9
+  head: 26d632e
   archived: false
   latestVersion: 6.0.0-Alpha10
-  collectedAt: 2026-09-04T04:43:31Z
+  collectedAt: 2026-09-04T19:50:28Z
 timeline:
   created: 2013-11-27
-  lastCommit: 2026-09-03
+  lastCommit: 2026-09-04
   lastRelease: 2026-07-21
 popularity:
-  star: 8996
+  star: 8999
   watcher: 288
   fork: 1721
   release: 48
   contributor: 319
-  pullRequest: 277
+  pullRequest: 1601
   issue: 1433
 language:
-  C: 68312735
+  C: 68312699
   C#: 1696602
   Smalltalk: 1384292
   Python: 1326611
@@ -38,37 +40,63 @@ language:
   Jinja: 280
   Pawn: 221
   Assembly: 45
-totalLine: 74877064
+totalBytes: 74877028
 recent:
   last30d:
     since: 2026-08-05
     release: 0
-    mergedPR: 26
-    openPR: 6
+    mergedPR: 27
+    openPR: 5
     closedIssue: 9
     openIssue: 7
-    commit: 24
+    commit: 25
+  last60d:
+    since: 2026-07-06
+    release: 1
+    mergedPR: 44
+    openPR: 6
+    closedIssue: 10
+    openIssue: 10
+    commit: 46
   last90d:
     since: 2026-06-06
     release: 1
-    mergedPR: 65
-    openPR: 11
+    mergedPR: 66
+    openPR: 10
     closedIssue: 13
     openIssue: 11
-    commit: 61
+    commit: 62
   last180d:
     since: 2026-03-08
     release: 5
-    mergedPR: 120
-    openPR: 13
+    mergedPR: 121
+    openPR: 12
     closedIssue: 24
     openIssue: 14
-    commit: 104
+    commit: 105
   last360d:
     since: 2025-09-09
     release: 8
-    mergedPR: 170
-    openPR: 17
+    mergedPR: 171
+    openPR: 16
     closedIssue: 47
     openIssue: 27
-    commit: 154
+    commit: 155
+  last720d:
+    since: 2024-09-14
+    release: 16
+    mergedPR: 323
+    openPR: 18
+    closedIssue: 113
+    openIssue: 77
+    commit: 303
+total:
+  release: 48
+  mergedPR: 1325
+  openPR: 18
+  closedIssue: 1093
+  openIssue: 340
+  commit: 5473
+---
+---
+
