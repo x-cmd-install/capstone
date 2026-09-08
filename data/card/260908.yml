@@ -5,7 +5,7 @@ about:
   head: 465eb45
   archived: false
   latestVersion: "6.0.0-Alpha10"
-  collectedAt: 2026-09-08T01:29:36Z
+  collectedAt: 2026-09-08T04:44:46Z
 timeline:
   created: 2013-11-27
   lastCommit: 2026-09-06
@@ -13,7 +13,7 @@ timeline:
 popularity:
   star: 9000
   watcher: 289
-  fork: 1720
+  fork: 1722
   release: 48
   contributor: 319
   pullRequest: 1601
@@ -97,7 +97,7 @@ total:
   commit: 5474
 ---
 path: /home/runner/.x-repo/github.com/capstone-engine/capstone
-collectedAt: 2026-09-08T01:29:48Z
+collectedAt: 2026-09-08T04:45:00Z
 loc:
   Bitbake:
     code: 1522492
