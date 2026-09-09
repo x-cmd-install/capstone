@@ -7,7 +7,7 @@ about:
   latestVersion: "6.0.0-Alpha10"
   latestRelease: "6.0.0-Alpha10"
   latestPrerelease: "5.0.4"
-  collectedAt: 2026-09-09T04:50:42Z
+  collectedAt: 2026-09-09T18:23:42Z
 timeline:
   created: 2013-11-27
   lastCommit: 2026-09-08
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-07-21
   lastPrerelease: 2025-01-16
 popularity:
-  star: 9003
+  star: 9007
   watcher: 289
-  fork: 1723
+  fork: 1724
   release: 48
   contributor: 319
-  pullRequest: 1603
+  pullRequest: 1604
   issue: 1435
 language:
   C: 68313026
@@ -48,7 +48,7 @@ recent:
     since: 2026-08-10
     release: 0
     mergedPR: 25
-    openPR: 3
+    openPR: 4
     closedIssue: 6
     openIssue: 5
     commit: 20
@@ -56,7 +56,7 @@ recent:
     since: 2026-07-11
     release: 1
     mergedPR: 47
-    openPR: 3
+    openPR: 4
     closedIssue: 10
     openIssue: 11
     commit: 43
@@ -64,7 +64,7 @@ recent:
     since: 2026-06-11
     release: 1
     mergedPR: 67
-    openPR: 5
+    openPR: 6
     closedIssue: 13
     openIssue: 13
     commit: 61
@@ -72,7 +72,7 @@ recent:
     since: 2026-03-13
     release: 5
     mergedPR: 124
-    openPR: 10
+    openPR: 11
     closedIssue: 23
     openIssue: 16
     commit: 108
@@ -80,7 +80,7 @@ recent:
     since: 2025-09-14
     release: 8
     mergedPR: 172
-    openPR: 14
+    openPR: 15
     closedIssue: 47
     openIssue: 29
     commit: 158
@@ -88,20 +88,20 @@ recent:
     since: 2024-09-19
     release: 16
     mergedPR: 325
-    openPR: 16
+    openPR: 17
     closedIssue: 114
     openIssue: 78
     commit: 303
 total:
   release: 48
   mergedPR: 1328
-  openPR: 16
+  openPR: 17
   closedIssue: 1094
   openIssue: 341
   commit: 5476
 ---
 path: /home/runner/.x-repo/github.com/capstone-engine/capstone
-collectedAt: 2026-09-09T04:50:54Z
+collectedAt: 2026-09-09T18:23:57Z
 loc:
   Bitbake:
     code: 1522492
