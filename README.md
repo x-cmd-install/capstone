@@ -5,9 +5,9 @@ Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, 
 - **Upstream**: <https://github.com/capstone-engine/capstone>
 - **Homepage**: <http://www.capstone-engine.org>
 - **Latest release**: `6.0.0-Alpha10` (2026-07-21)
-- **Last commit**: 2026-09-06
+- **Last commit**: 2026-09-08
 - **License**: NOASSERTION
-- **Stars**: 9001 · **Forks**: 1722 · **Open issues**: 1435 · **Contributors**: 319
+- **Stars**: 9003 · **Forks**: 1723 · **Open issues**: 1435 · **Contributors**: 319
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/capstone> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T10:15:03Z._
+_Last regenerated: 2026-09-09T04:50:58Z._
