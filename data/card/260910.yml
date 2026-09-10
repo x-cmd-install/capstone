@@ -7,7 +7,7 @@ about:
   latestVersion: "6.0.0-Alpha10"
   latestRelease: "6.0.0-Alpha10"
   latestPrerelease: "5.0.4"
-  collectedAt: 2026-09-10T20:23:02Z
+  collectedAt: 2026-09-10T23:27:52Z
 timeline:
   created: 2013-11-27
   lastCommit: 2026-09-10
@@ -101,7 +101,7 @@ total:
   commit: 5477
 ---
 path: /home/runner/.x-repo/github.com/capstone-engine/capstone
-collectedAt: 2026-09-10T20:23:25Z
+collectedAt: 2026-09-10T23:28:06Z
 loc:
   Bitbake:
     code: 1522492
