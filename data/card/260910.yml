@@ -7,7 +7,7 @@ about:
   latestVersion: "6.0.0-Alpha10"
   latestRelease: "6.0.0-Alpha10"
   latestPrerelease: "5.0.4"
-  collectedAt: 2026-09-10T15:50:40Z
+  collectedAt: 2026-09-10T20:23:02Z
 timeline:
   created: 2013-11-27
   lastCommit: 2026-09-10
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-07-21
   lastPrerelease: 2025-01-16
 popularity:
-  star: 9008
+  star: 9009
   watcher: 289
   fork: 1724
   release: 48
@@ -101,7 +101,7 @@ total:
   commit: 5477
 ---
 path: /home/runner/.x-repo/github.com/capstone-engine/capstone
-collectedAt: 2026-09-10T15:51:00Z
+collectedAt: 2026-09-10T20:23:25Z
 loc:
   Bitbake:
     code: 1522492
