@@ -48,12 +48,12 @@ Total: **2,668,153** lines of code across **3550** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 24 | 3 | 7 | 4 | 21 |
-| last60d | 2026-07-12 | 1 | 47 | 3 | 11 | 10 | 44 |
-| 90d | 2026-06-12 | 1 | 68 | 5 | 14 | 12 | 62 |
-| last180d | 2026-03-14 | 5 | 125 | 10 | 24 | 15 | 109 |
-| 360d | 2025-09-15 | 8 | 173 | 13 | 48 | 28 | 159 |
-| last720d | 2024-09-20 | 16 | 326 | 16 | 115 | 77 | 302 |
+| 30d | 2026-08-12 | 0 | 24 | 3 | 6 | 4 | 21 |
+| last60d | 2026-07-13 | 1 | 47 | 3 | 11 | 10 | 44 |
+| 90d | 2026-06-13 | 1 | 68 | 5 | 14 | 12 | 62 |
+| last180d | 2026-03-15 | 5 | 125 | 10 | 24 | 15 | 109 |
+| 360d | 2025-09-16 | 8 | 173 | 13 | 48 | 28 | 159 |
+| last720d | 2024-09-21 | 16 | 326 | 16 | 115 | 77 | 302 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for capstone lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T23:28:13Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T04:37:54Z._
