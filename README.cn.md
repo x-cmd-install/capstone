@@ -38,7 +38,7 @@ x install capstone
 
 ## 流行度
 
-- **Star**: 9,012 · **Fork**: 1,729 · **开放 issue**: 1,437 · **贡献者**: 319
+- **Star**: 9,016 · **Fork**: 1,731 · **开放 issue**: 1,437 · **贡献者**: 319
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install capstone
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 20 | 4 | 6 | 4 | 21 |
-| last60d | 2026-07-15 | 1 | 44 | 4 | 11 | 11 | 44 |
-| 90d | 2026-06-15 | 1 | 67 | 6 | 14 | 12 | 62 |
-| last180d | 2026-03-17 | 5 | 125 | 11 | 25 | 16 | 109 |
-| 360d | 2025-09-18 | 8 | 173 | 14 | 49 | 29 | 159 |
-| last720d | 2024-09-23 | 16 | 326 | 17 | 116 | 78 | 302 |
+| 30d | 2026-08-15 | 0 | 18 | 4 | 6 | 4 | 21 |
+| last60d | 2026-07-16 | 1 | 44 | 4 | 11 | 11 | 40 |
+| 90d | 2026-06-16 | 1 | 65 | 6 | 14 | 12 | 55 |
+| last180d | 2026-03-18 | 5 | 125 | 11 | 25 | 16 | 109 |
+| 360d | 2025-09-19 | 8 | 172 | 14 | 49 | 29 | 159 |
+| last720d | 2024-09-24 | 16 | 324 | 17 | 116 | 78 | 300 |
 
 ## Release 资产
 
@@ -65,25 +65,6 @@ x install capstone
 | [capstone-devel-6.0.0-Alpha10.x86_64.rpm](https://github.com/capstone-engine/capstone/releases/download/6.0.0-Alpha10/capstone-devel-6.0.0-Alpha10.x86_64.rpm) | 6.3 MiB | `runtime/rpm/x86_64` |
 | [libcapstone-dev_6.0.0-Alpha10_amd64.deb](https://github.com/capstone-engine/capstone/releases/download/6.0.0-Alpha10/libcapstone-dev_6.0.0-Alpha10_amd64.deb) | 6.5 MiB | `runtime/deb/amd64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/capstone) 上共有 **239** 个发行版报告此项目。**64** 个 ✅ 已是最新上游版本，**147** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `5.0.7` | 🪦 legacy |
-| Debian 14 | `5.0.9` | ✅ latest |
-| Debian 13 | `5.0.7` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `5.0.7` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `4.0.2` | ⚠️ outdated |
-| Arch | `5.0.9` | ✅ latest |
-| Homebrew | `5.0.9` | ✅ latest |
-| Fedora rawhide | `5.0.6` | ⚠️ outdated |
-| Nix unstable | `5.0.9` | ✅ latest |
-| Void | `5.0.9` | ✅ latest |
-| Alpine edge | `5.0.9` | ✅ latest |
-| openSUSE Tumbleweed | `5.0.6` | ⚠️ outdated |
-
 ## 改进这些数据
 
 capstone 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `capstone` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -93,4 +74,4 @@ capstone 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T04:55:40Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T05:06:11Z._
