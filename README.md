@@ -4,7 +4,7 @@
 
 Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriCore, Webassembly, XCore and X86.
 
-![capstone](https://repo.x-cmd.io/capstone.svg)
+[![x-cmd/install — capstone Code Quality Monitoring Repo Card](https://repo.x-cmd.io/capstone.svg)](https://x-cmd.com/install/capstone)
 
 ## Install
 
@@ -14,15 +14,15 @@ x install capstone
 
 ## Code insight
 
-Total: **2,668,212** lines of code across **3551** files in the top 5 languages.
+Total: **2,668,639** lines of code across **3552** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Bitbake | 1,522,492 | 123,605 | 61,866 | 201 |
-| Yaml | 851,425 | 525 | 65,312 | 1856 |
-| C | 81,280 | 4,944 | 10,020 | 202 |
+| Yaml | 851,746 | 525 | 65,313 | 1857 |
+| C | 81,374 | 4,954 | 10,026 | 202 |
 | CSharp | 65,902 | 98 | 327 | 1090 |
-| CHeader | 50,844 | 3,838 | 3,482 | 202 |
+| CHeader | 50,856 | 3,843 | 3,484 | 202 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **2,668,212** lines of code across **3551** files in the top 5 languages.
 ## Release
 
 - **Latest**: `6.0.0-Alpha10` (2026-07-21)
-- **Last commit**: 2026-09-15
+- **Last commit**: 2026-09-19
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 9,024 · **Forks**: 1,730 · **Open issues**: 1,438 · **Contributors**: 319
+- **Stars**: 9,031 · **Forks**: 1,729 · **Open issues**: 1,438 · **Contributors**: 319
 
 ## Totals (cumulative)
 
-- **Releases**: 48 · **Merged PRs**: 1331 · **Open PRs**: 16 · **Closed issues**: 1097 · **Open issues**: 341 · **Commits**: 5479
+- **Releases**: 48 · **Merged PRs**: 1334 · **Open PRs**: 16 · **Closed issues**: 1099 · **Open issues**: 339 · **Commits**: 5482
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 20 | 3 | 6 | 3 | 23 |
-| last60d | 2026-07-20 | 1 | 44 | 4 | 12 | 11 | 42 |
-| 90d | 2026-06-20 | 1 | 62 | 5 | 14 | 12 | 57 |
-| last180d | 2026-03-22 | 5 | 126 | 9 | 26 | 16 | 111 |
-| 360d | 2025-09-23 | 8 | 171 | 13 | 50 | 29 | 161 |
-| last720d | 2024-09-28 | 16 | 323 | 16 | 116 | 78 | 297 |
+| 30d | 2026-08-21 | 0 | 23 | 3 | 5 | 3 | 24 |
+| last60d | 2026-07-22 | 0 | 43 | 4 | 13 | 10 | 37 |
+| 90d | 2026-06-22 | 1 | 65 | 5 | 15 | 11 | 57 |
+| last180d | 2026-03-24 | 5 | 124 | 9 | 28 | 14 | 110 |
+| 360d | 2025-09-25 | 8 | 174 | 13 | 52 | 27 | 163 |
+| last720d | 2024-09-30 | 16 | 321 | 16 | 117 | 76 | 300 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for capstone lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:46:27Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:05:58Z._
