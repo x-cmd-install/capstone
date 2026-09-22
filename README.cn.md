@@ -14,7 +14,7 @@ x install capstone
 
 ## 代码洞察
 
-合计: **2,668,639** 行代码（覆盖前 5 种语言、共 **3552** 个文件）。
+合计: **2,668,646** 行代码（覆盖前 5 种语言、共 **3552** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
@@ -22,7 +22,7 @@ x install capstone
 | Yaml | 851,746 | 525 | 65,313 | 1857 |
 | C | 81,374 | 4,954 | 10,026 | 202 |
 | CSharp | 65,902 | 98 | 327 | 1090 |
-| CHeader | 50,856 | 3,843 | 3,484 | 202 |
+| CHeader | 50,857 | 3,843 | 3,484 | 202 |
 
 ## 源代码
 
@@ -32,38 +32,38 @@ x install capstone
 
 ## 发布
 
-- **最新版本**: `6.0.0-Alpha10` (2026-07-21)
-- **最近提交**: 2026-09-19
+- **最新版本**: `6.0.0-Alpha11` (2026-09-21)
+- **最近提交**: 2026-09-21
 - **Release 含资产**: 5 个
 
 ## 流行度
 
-- **Star**: 9,033 · **Fork**: 1,729 · **开放 issue**: 1,438 · **贡献者**: 319
+- **Star**: 9,032 · **Fork**: 1,729 · **开放 issue**: 1,438 · **贡献者**: 319
 
 ## 累计统计
 
-- **发布数**: 48 · **已合并 PR**: 1334 · **开放 PR**: 16 · **已关闭 issue**: 1099 · **开放 issue**: 339 · **提交数**: 5482
+- **发布数**: 49 · **已合并 PR**: 1337 · **开放 PR**: 14 · **已关闭 issue**: 1099 · **开放 issue**: 339 · **提交数**: 5485
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 23 | 3 | 5 | 3 | 24 |
-| last60d | 2026-07-23 | 0 | 40 | 4 | 13 | 10 | 37 |
-| 90d | 2026-06-23 | 1 | 63 | 5 | 14 | 11 | 57 |
-| last180d | 2026-03-25 | 5 | 124 | 9 | 28 | 14 | 110 |
-| 360d | 2025-09-26 | 8 | 174 | 13 | 52 | 27 | 163 |
-| last720d | 2024-10-01 | 15 | 320 | 16 | 117 | 76 | 291 |
+| 30d | 2026-08-23 | 1 | 24 | 1 | 5 | 3 | 27 |
+| last60d | 2026-07-24 | 1 | 43 | 2 | 13 | 10 | 40 |
+| 90d | 2026-06-24 | 2 | 65 | 3 | 13 | 11 | 60 |
+| last180d | 2026-03-26 | 6 | 126 | 7 | 28 | 14 | 113 |
+| 360d | 2025-09-27 | 9 | 177 | 11 | 51 | 27 | 166 |
+| last720d | 2024-10-02 | 16 | 323 | 14 | 117 | 76 | 294 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [capstone-6.0.0-Alpha10-Windows-x64.exe](https://github.com/capstone-engine/capstone/releases/download/6.0.0-Alpha10/capstone-6.0.0-Alpha10-Windows-x64.exe) | 5.7 MiB | `native/win/x64` |
-| [capstone-6.0.0-Alpha10.tar.xz](https://github.com/capstone-engine/capstone/releases/download/6.0.0-Alpha10/capstone-6.0.0-Alpha10.tar.xz) | 5.4 MiB | `other` |
-| [capstone-6.0.0-Alpha10.tar.xz.sha256](https://github.com/capstone-engine/capstone/releases/download/6.0.0-Alpha10/capstone-6.0.0-Alpha10.tar.xz.sha256) | 96 B | `other` |
-| [capstone-devel-6.0.0-Alpha10.x86_64.rpm](https://github.com/capstone-engine/capstone/releases/download/6.0.0-Alpha10/capstone-devel-6.0.0-Alpha10.x86_64.rpm) | 6.3 MiB | `runtime/rpm/x86_64` |
-| [libcapstone-dev_6.0.0-Alpha10_amd64.deb](https://github.com/capstone-engine/capstone/releases/download/6.0.0-Alpha10/libcapstone-dev_6.0.0-Alpha10_amd64.deb) | 6.5 MiB | `runtime/deb/amd64` |
+| [capstone-6.0.0-Alpha11-Windows-x64.exe](https://github.com/capstone-engine/capstone/releases/download/6.0.0-Alpha11/capstone-6.0.0-Alpha11-Windows-x64.exe) | 5.7 MiB | `native/win/x64` |
+| [capstone-6.0.0-Alpha11.tar.xz](https://github.com/capstone-engine/capstone/releases/download/6.0.0-Alpha11/capstone-6.0.0-Alpha11.tar.xz) | 5.6 MiB | `other` |
+| [capstone-6.0.0-Alpha11.tar.xz.sha256](https://github.com/capstone-engine/capstone/releases/download/6.0.0-Alpha11/capstone-6.0.0-Alpha11.tar.xz.sha256) | 96 B | `other` |
+| [capstone-devel-6.0.0-Alpha11.x86_64.rpm](https://github.com/capstone-engine/capstone/releases/download/6.0.0-Alpha11/capstone-devel-6.0.0-Alpha11.x86_64.rpm) | 6.4 MiB | `runtime/rpm/x86_64` |
+| [libcapstone-dev_6.0.0-Alpha11_amd64.deb](https://github.com/capstone-engine/capstone/releases/download/6.0.0-Alpha11/libcapstone-dev_6.0.0-Alpha11_amd64.deb) | 6.5 MiB | `runtime/deb/amd64` |
 
 ## 改进这些数据
 
@@ -74,4 +74,4 @@ capstone 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260921.yml` · 2026-09-21T05:07:48Z._
+_数据快照: `data/card/260922.yml` · 2026-09-22T05:01:29Z._

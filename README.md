@@ -14,7 +14,7 @@ x install capstone
 
 ## Code insight
 
-Total: **2,668,639** lines of code across **3552** files in the top 5 languages.
+Total: **2,668,646** lines of code across **3552** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -22,7 +22,7 @@ Total: **2,668,639** lines of code across **3552** files in the top 5 languages.
 | Yaml | 851,746 | 525 | 65,313 | 1857 |
 | C | 81,374 | 4,954 | 10,026 | 202 |
 | CSharp | 65,902 | 98 | 327 | 1090 |
-| CHeader | 50,856 | 3,843 | 3,484 | 202 |
+| CHeader | 50,857 | 3,843 | 3,484 | 202 |
 
 ## Source
 
@@ -32,38 +32,38 @@ Total: **2,668,639** lines of code across **3552** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `6.0.0-Alpha10` (2026-07-21)
-- **Last commit**: 2026-09-19
+- **Latest**: `6.0.0-Alpha11` (2026-09-21)
+- **Last commit**: 2026-09-21
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 9,033 · **Forks**: 1,729 · **Open issues**: 1,438 · **Contributors**: 319
+- **Stars**: 9,032 · **Forks**: 1,729 · **Open issues**: 1,438 · **Contributors**: 319
 
 ## Totals (cumulative)
 
-- **Releases**: 48 · **Merged PRs**: 1334 · **Open PRs**: 16 · **Closed issues**: 1099 · **Open issues**: 339 · **Commits**: 5482
+- **Releases**: 49 · **Merged PRs**: 1337 · **Open PRs**: 14 · **Closed issues**: 1099 · **Open issues**: 339 · **Commits**: 5485
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 23 | 3 | 5 | 3 | 24 |
-| last60d | 2026-07-23 | 0 | 40 | 4 | 13 | 10 | 37 |
-| 90d | 2026-06-23 | 1 | 63 | 5 | 14 | 11 | 57 |
-| last180d | 2026-03-25 | 5 | 124 | 9 | 28 | 14 | 110 |
-| 360d | 2025-09-26 | 8 | 174 | 13 | 52 | 27 | 163 |
-| last720d | 2024-10-01 | 15 | 320 | 16 | 117 | 76 | 291 |
+| 30d | 2026-08-23 | 1 | 24 | 1 | 5 | 3 | 27 |
+| last60d | 2026-07-24 | 1 | 43 | 2 | 13 | 10 | 40 |
+| 90d | 2026-06-24 | 2 | 65 | 3 | 13 | 11 | 60 |
+| last180d | 2026-03-26 | 6 | 126 | 7 | 28 | 14 | 113 |
+| 360d | 2025-09-27 | 9 | 177 | 11 | 51 | 27 | 166 |
+| last720d | 2024-10-02 | 16 | 323 | 14 | 117 | 76 | 294 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [capstone-6.0.0-Alpha10-Windows-x64.exe](https://github.com/capstone-engine/capstone/releases/download/6.0.0-Alpha10/capstone-6.0.0-Alpha10-Windows-x64.exe) | 5.7 MiB | `native/win/x64` |
-| [capstone-6.0.0-Alpha10.tar.xz](https://github.com/capstone-engine/capstone/releases/download/6.0.0-Alpha10/capstone-6.0.0-Alpha10.tar.xz) | 5.4 MiB | `other` |
-| [capstone-6.0.0-Alpha10.tar.xz.sha256](https://github.com/capstone-engine/capstone/releases/download/6.0.0-Alpha10/capstone-6.0.0-Alpha10.tar.xz.sha256) | 96 B | `other` |
-| [capstone-devel-6.0.0-Alpha10.x86_64.rpm](https://github.com/capstone-engine/capstone/releases/download/6.0.0-Alpha10/capstone-devel-6.0.0-Alpha10.x86_64.rpm) | 6.3 MiB | `runtime/rpm/x86_64` |
-| [libcapstone-dev_6.0.0-Alpha10_amd64.deb](https://github.com/capstone-engine/capstone/releases/download/6.0.0-Alpha10/libcapstone-dev_6.0.0-Alpha10_amd64.deb) | 6.5 MiB | `runtime/deb/amd64` |
+| [capstone-6.0.0-Alpha11-Windows-x64.exe](https://github.com/capstone-engine/capstone/releases/download/6.0.0-Alpha11/capstone-6.0.0-Alpha11-Windows-x64.exe) | 5.7 MiB | `native/win/x64` |
+| [capstone-6.0.0-Alpha11.tar.xz](https://github.com/capstone-engine/capstone/releases/download/6.0.0-Alpha11/capstone-6.0.0-Alpha11.tar.xz) | 5.6 MiB | `other` |
+| [capstone-6.0.0-Alpha11.tar.xz.sha256](https://github.com/capstone-engine/capstone/releases/download/6.0.0-Alpha11/capstone-6.0.0-Alpha11.tar.xz.sha256) | 96 B | `other` |
+| [capstone-devel-6.0.0-Alpha11.x86_64.rpm](https://github.com/capstone-engine/capstone/releases/download/6.0.0-Alpha11/capstone-devel-6.0.0-Alpha11.x86_64.rpm) | 6.4 MiB | `runtime/rpm/x86_64` |
+| [libcapstone-dev_6.0.0-Alpha11_amd64.deb](https://github.com/capstone-engine/capstone/releases/download/6.0.0-Alpha11/libcapstone-dev_6.0.0-Alpha11_amd64.deb) | 6.5 MiB | `runtime/deb/amd64` |
 
 ## Improve this data
 
@@ -74,4 +74,4 @@ Install metadata for capstone lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T05:07:47Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T05:01:27Z._
