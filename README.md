@@ -4,7 +4,7 @@
 
 Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriCore, Webassembly, XCore and X86.
 
-[![x-cmd/install — capstone Code Quality Monitoring Repo Card](https://repo.x-cmd.io/capstone.svg)](https://x-cmd.com/install/capstone)
+[![x-cmd/install — capstone Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/capstone.svg)](https://x-cmd.com/install/capstone)
 
 ## Install
 
@@ -38,22 +38,22 @@ Total: **2,668,646** lines of code across **3552** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 9,032 · **Forks**: 1,729 · **Open issues**: 1,438 · **Contributors**: 319
+- **Stars**: 9,032 · **Forks**: 1,730 · **Open issues**: 1,438 · **Contributors**: 319
 
 ## Totals (cumulative)
 
-- **Releases**: 49 · **Merged PRs**: 1337 · **Open PRs**: 14 · **Closed issues**: 1099 · **Open issues**: 339 · **Commits**: 5485
+- **Releases**: 49 · **Merged PRs**: 1337 · **Open PRs**: 16 · **Closed issues**: 1099 · **Open issues**: 339 · **Commits**: 5485
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 24 | 1 | 5 | 3 | 27 |
-| last60d | 2026-07-24 | 1 | 43 | 2 | 13 | 10 | 40 |
-| 90d | 2026-06-24 | 2 | 65 | 3 | 13 | 11 | 60 |
-| last180d | 2026-03-26 | 6 | 126 | 7 | 28 | 14 | 113 |
-| 360d | 2025-09-27 | 9 | 177 | 11 | 51 | 27 | 166 |
-| last720d | 2024-10-02 | 16 | 323 | 14 | 117 | 76 | 294 |
+| 30d | 2026-08-24 | 1 | 23 | 3 | 5 | 3 | 27 |
+| last60d | 2026-07-25 | 1 | 43 | 4 | 13 | 10 | 40 |
+| 90d | 2026-06-25 | 2 | 65 | 5 | 13 | 11 | 60 |
+| last180d | 2026-03-27 | 6 | 125 | 9 | 27 | 14 | 113 |
+| 360d | 2025-09-28 | 9 | 177 | 13 | 51 | 27 | 166 |
+| last720d | 2024-10-03 | 16 | 323 | 16 | 117 | 76 | 294 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for capstone lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:01:27Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:53:09Z._
