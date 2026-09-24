@@ -38,22 +38,22 @@ Total: **2,668,646** lines of code across **3552** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 9,032 · **Forks**: 1,730 · **Open issues**: 1,438 · **Contributors**: 319
+- **Stars**: 9,032 · **Forks**: 1,731 · **Open issues**: 1,438 · **Contributors**: 319
 
 ## Totals (cumulative)
 
-- **Releases**: 49 · **Merged PRs**: 1337 · **Open PRs**: 16 · **Closed issues**: 1099 · **Open issues**: 339 · **Commits**: 5485
+- **Releases**: 49 · **Merged PRs**: 1337 · **Open PRs**: 17 · **Closed issues**: 1099 · **Open issues**: 339 · **Commits**: 5485
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 1 | 23 | 3 | 5 | 3 | 27 |
-| last60d | 2026-07-25 | 1 | 43 | 4 | 13 | 10 | 40 |
-| 90d | 2026-06-25 | 2 | 65 | 5 | 13 | 11 | 60 |
-| last180d | 2026-03-27 | 6 | 125 | 9 | 27 | 14 | 113 |
-| 360d | 2025-09-28 | 9 | 177 | 13 | 51 | 27 | 166 |
-| last720d | 2024-10-03 | 16 | 323 | 16 | 117 | 76 | 294 |
+| 30d | 2026-08-25 | 1 | 23 | 4 | 5 | 3 | 27 |
+| last60d | 2026-07-26 | 1 | 43 | 5 | 13 | 10 | 40 |
+| 90d | 2026-06-26 | 2 | 64 | 6 | 13 | 11 | 60 |
+| last180d | 2026-03-28 | 6 | 124 | 10 | 27 | 14 | 113 |
+| 360d | 2025-09-29 | 9 | 177 | 14 | 51 | 27 | 166 |
+| last720d | 2024-10-04 | 16 | 323 | 17 | 117 | 76 | 294 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for capstone lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T04:53:09Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T04:46:40Z._
