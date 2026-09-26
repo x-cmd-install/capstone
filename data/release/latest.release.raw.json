@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5944299,
       "digest": "sha256:7c611c9db6a27f600a947863cda48b4f08088dbd903f72c2c28c2c3f22763d30",
-      "download_count": 30,
+      "download_count": 37,
       "created_at": "2026-09-21T17:57:49Z",
       "updated_at": "2026-09-21T17:57:50Z",
       "browser_download_url": "https://github.com/capstone-engine/capstone/releases/download/6.0.0-Alpha11/capstone-6.0.0-Alpha11-Windows-x64.exe"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 6660496,
       "digest": "sha256:80c4b67feb6d9b3a5cec24c5bc4f66420254216d21601de8271c19b508050dfb",
-      "download_count": 8,
+      "download_count": 14,
       "created_at": "2026-09-21T17:55:46Z",
       "updated_at": "2026-09-21T17:55:47Z",
       "browser_download_url": "https://github.com/capstone-engine/capstone/releases/download/6.0.0-Alpha11/capstone-devel-6.0.0-Alpha11.x86_64.rpm"
