@@ -14,13 +14,13 @@ x install capstone
 
 ## Code insight
 
-Total: **2,670,265** lines of code across **3552** files in the top 5 languages.
+Total: **2,670,803** lines of code across **3553** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Bitbake | 1,522,492 | 123,605 | 61,866 | 201 |
-| Yaml | 853,305 | 524 | 65,317 | 1857 |
-| C | 81,431 | 4,963 | 10,037 | 202 |
+| Yaml | 853,840 | 524 | 65,317 | 1858 |
+| C | 81,434 | 4,964 | 10,038 | 202 |
 | CSharp | 65,902 | 98 | 327 | 1090 |
 | CHeader | 50,867 | 3,843 | 3,485 | 202 |
 
@@ -33,27 +33,27 @@ Total: **2,670,265** lines of code across **3552** files in the top 5 languages.
 ## Release
 
 - **Latest**: `6.0.0-Alpha11` (2026-09-21)
-- **Last commit**: 2026-10-09
+- **Last commit**: 2026-10-11
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 9,074 · **Forks**: 1,733 · **Open issues**: 1,446 · **Contributors**: 319
+- **Stars**: 9,077 · **Forks**: 1,737 · **Open issues**: 1,446 · **Contributors**: 320
 
 ## Totals (cumulative)
 
-- **Releases**: 49 · **Merged PRs**: 1356 · **Open PRs**: 14 · **Closed issues**: 1107 · **Open issues**: 339 · **Commits**: 5505
+- **Releases**: 49 · **Merged PRs**: 1358 · **Open PRs**: 14 · **Closed issues**: 1109 · **Open issues**: 337 · **Commits**: 5507
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 1 | 23 | 5 | 2 | 7 | 28 |
-| last60d | 2026-08-12 | 1 | 50 | 5 | 10 | 10 | 55 |
-| 90d | 2026-07-13 | 2 | 73 | 5 | 16 | 15 | 74 |
-| last180d | 2026-04-14 | 6 | 140 | 9 | 28 | 19 | 128 |
-| 360d | 2025-10-16 | 9 | 189 | 12 | 53 | 31 | 179 |
-| last720d | 2024-10-21 | 16 | 332 | 14 | 122 | 75 | 307 |
+| 30d | 2026-09-12 | 1 | 24 | 5 | 3 | 6 | 28 |
+| last60d | 2026-08-13 | 1 | 48 | 5 | 11 | 8 | 51 |
+| 90d | 2026-07-14 | 2 | 74 | 5 | 17 | 14 | 71 |
+| last180d | 2026-04-15 | 6 | 142 | 9 | 30 | 17 | 127 |
+| 360d | 2025-10-17 | 9 | 191 | 12 | 55 | 29 | 179 |
+| last720d | 2024-10-22 | 16 | 333 | 14 | 124 | 73 | 308 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for capstone lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T05:50:16Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T06:03:14Z._
