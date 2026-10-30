@@ -1,3 +1,82 @@
+- repo: pardus_21
+  subrepo: main
+  srcname: capstone
+  binnames:
+    - libcapstone-dev
+    - libcapstone4
+    - capstone-tool
+    - python3-capstone
+  visiblename: capstone
+  version: 4.0.2
+  origversion: 4.0.2-3
+  status: outdated
+  maintainers:
+    - team+pkg-security@tracker.debian.org
+    - bobby.prani@gmail.com
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot/main
+  srcname: capstone
+  binnames:
+    - libcapstone-dev
+    - libcapstone5
+    - capstone-tool
+    - python3-capstone
+  visiblename: capstone
+  version: 5.0.7
+  origversion: 5.0.7-1~deb13u1
+  status: outdated
+  maintainers:
+    - team+pkg-security@tracker.debian.org
+    - bobby.prani@gmail.com
+  categories:
+    - misc
+- repo: scoop
+  subrepo: main
+  binname: capstone
+  visiblename: capstone
+  version: 4.0.2
+  origversion: null
+  status: outdated
+  licenses:
+    - BSD-3-Clause-Clear
+- repo: eurolinux_9
+  subrepo: appstream
+  srcname: capstone
+  binnames:
+    - capstone
+    - capstone-devel
+    - python3-capstone
+    - capstone-java
+    - capstone-debuginfo
+    - capstone-debugsource
+  visiblename: capstone
+  version: 4.0.2
+  origversion: 4.0.2-10.el9
+  status: outdated
+  summary: A lightweight multi-platform, multi-architecture disassembly framework
+  licenses:
+    - BSD
+  categories:
+    - Unspecified
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: capstone
+  binnames:
+    - libcapstone-dev
+    - libcapstone5
+    - capstone-tool
+    - python3-capstone
+  visiblename: capstone
+  version: 5.0.7
+  origversion: 5.0.7-1~deb13u1
+  status: outdated
+  maintainers:
+    - team+pkg-security@tracker.debian.org
+    - bobby.prani@gmail.com
+  categories:
+    - misc
 - repo: almalinux_9
   subrepo: AppStream
   srcname: capstone
@@ -186,6 +265,32 @@
 - repo: alpine_3_19
   subrepo: community
   srcname: capstone
+  binname: py3-capstone
+  visiblename: py3-capstone
+  version: 5.0.1
+  origversion: 5.0.1-r1
+  status: outdated
+  summary: The Ultimate Disassembler (for python3)
+  maintainers:
+    - valery.kartel@gmail.com
+  licenses:
+    - BSD-3-Clause-Clear
+- repo: alpine_3_19
+  subrepo: community
+  srcname: capstone
+  binname: py3-capstone-pyc
+  visiblename: py3-capstone-pyc
+  version: 5.0.1
+  origversion: 5.0.1-r1
+  status: outdated
+  summary: Precompiled Python bytecode for py3-capstone
+  maintainers:
+    - valery.kartel@gmail.com
+  licenses:
+    - BSD-3-Clause-Clear
+- repo: alpine_3_19
+  subrepo: community
+  srcname: capstone
   binname: capstone
   visiblename: capstone
   version: 5.0.1
@@ -235,38 +340,39 @@
     - valery.kartel@gmail.com
   licenses:
     - BSD-3-Clause-Clear
-- repo: alpine_3_19
+- repo: alpine_3_20
   subrepo: community
   srcname: capstone
   binname: py3-capstone
   visiblename: py3-capstone
   version: 5.0.1
-  origversion: 5.0.1-r1
+  origversion: 5.0.1-r4
   status: outdated
   summary: The Ultimate Disassembler (for python3)
   maintainers:
     - valery.kartel@gmail.com
   licenses:
     - BSD-3-Clause-Clear
-- repo: aosc
-  srcname: app-devel/capstone
-  binname: capstone
-  visiblename: capstone
-  version: 5.0.3
-  origversion: 5.0.3-1
-  status: outdated
-  summary: A lightweight multi-platform, multi-architecture disassembly framework
+- repo: alpine_3_23
+  subrepo: community
+  srcname: capstone
+  binname: cstool
+  visiblename: cstool
+  version: 5.0.9
+  origversion: 5.0.9-r0
+  status: newest
+  summary: cstool for capstone disassembler
   maintainers:
-    - fallback-mnt-aosc@repology
-  categories:
-    - devel
-- repo: alpine_3_19
+    - omni+alpine@hack.org
+  licenses:
+    - BSD-3-Clause-Clear
+- repo: alpine_3_20
   subrepo: community
   srcname: capstone
   binname: py3-capstone-pyc
   visiblename: py3-capstone-pyc
   version: 5.0.1
-  origversion: 5.0.1-r1
+  origversion: 5.0.1-r4
   status: outdated
   summary: Precompiled Python bytecode for py3-capstone
   maintainers:
@@ -321,32 +427,6 @@
   origversion: 5.0.1-r4
   status: outdated
   summary: cstool for capstone disassembler
-  maintainers:
-    - valery.kartel@gmail.com
-  licenses:
-    - BSD-3-Clause-Clear
-- repo: alpine_3_20
-  subrepo: community
-  srcname: capstone
-  binname: py3-capstone
-  visiblename: py3-capstone
-  version: 5.0.1
-  origversion: 5.0.1-r4
-  status: outdated
-  summary: The Ultimate Disassembler (for python3)
-  maintainers:
-    - valery.kartel@gmail.com
-  licenses:
-    - BSD-3-Clause-Clear
-- repo: alpine_3_20
-  subrepo: community
-  srcname: capstone
-  binname: py3-capstone-pyc
-  visiblename: py3-capstone-pyc
-  version: 5.0.1
-  origversion: 5.0.1-r4
-  status: outdated
-  summary: Precompiled Python bytecode for py3-capstone
   maintainers:
     - valery.kartel@gmail.com
   licenses:
@@ -510,32 +590,6 @@
 - repo: alpine_3_23
   subrepo: community
   srcname: capstone
-  binname: py3-capstone
-  visiblename: py3-capstone
-  version: 5.0.9
-  origversion: 5.0.9-r0
-  status: newest
-  summary: The Ultimate Disassembler (for python3)
-  maintainers:
-    - omni+alpine@hack.org
-  licenses:
-    - BSD-3-Clause-Clear
-- repo: alpine_3_23
-  subrepo: community
-  srcname: capstone
-  binname: py3-capstone-pyc
-  visiblename: py3-capstone-pyc
-  version: 5.0.9
-  origversion: 5.0.9-r0
-  status: newest
-  summary: Precompiled Python bytecode for py3-capstone
-  maintainers:
-    - omni+alpine@hack.org
-  licenses:
-    - BSD-3-Clause-Clear
-- repo: alpine_3_23
-  subrepo: community
-  srcname: capstone
   binname: capstone
   visiblename: capstone
   version: 5.0.9
@@ -575,19 +629,6 @@
 - repo: alpine_3_23
   subrepo: community
   srcname: capstone
-  binname: cstool
-  visiblename: cstool
-  version: 5.0.9
-  origversion: 5.0.9-r0
-  status: newest
-  summary: cstool for capstone disassembler
-  maintainers:
-    - omni+alpine@hack.org
-  licenses:
-    - BSD-3-Clause-Clear
-- repo: alpine_3_24
-  subrepo: community
-  srcname: capstone
   binname: py3-capstone
   visiblename: py3-capstone
   version: 5.0.9
@@ -598,7 +639,7 @@
     - omni+alpine@hack.org
   licenses:
     - BSD-3-Clause-Clear
-- repo: alpine_3_24
+- repo: alpine_3_23
   subrepo: community
   srcname: capstone
   binname: py3-capstone-pyc
@@ -624,17 +665,6 @@
     - omni+alpine@hack.org
   licenses:
     - BSD-3-Clause-Clear
-- repo: arch
-  subrepo: extra
-  srcname: capstone
-  binname: capstone
-  visiblename: capstone
-  version: 5.0.9
-  origversion: 5.0.9-1
-  status: newest
-  summary: Lightweight multi-platform, multi-architecture disassembly framework
-  licenses:
-    - BSD-3-Clause
 - repo: alpine_3_24
   subrepo: community
   srcname: capstone
@@ -674,7 +704,7 @@
     - omni+alpine@hack.org
   licenses:
     - BSD-3-Clause-Clear
-- repo: alpine_edge
+- repo: alpine_3_24
   subrepo: community
   srcname: capstone
   binname: py3-capstone
@@ -687,7 +717,7 @@
     - omni+alpine@hack.org
   licenses:
     - BSD-3-Clause-Clear
-- repo: alpine_edge
+- repo: alpine_3_24
   subrepo: community
   srcname: capstone
   binname: py3-capstone-pyc
@@ -748,6 +778,32 @@
   origversion: 5.0.9-r0
   status: newest
   summary: cstool for capstone disassembler
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - BSD-3-Clause-Clear
+- repo: alpine_edge
+  subrepo: community
+  srcname: capstone
+  binname: py3-capstone
+  visiblename: py3-capstone
+  version: 5.0.9
+  origversion: 5.0.9-r0
+  status: newest
+  summary: The Ultimate Disassembler (for python3)
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - BSD-3-Clause-Clear
+- repo: alpine_edge
+  subrepo: community
+  srcname: capstone
+  binname: py3-capstone-pyc
+  visiblename: py3-capstone-pyc
+  version: 5.0.9
+  origversion: 5.0.9-r0
+  status: newest
+  summary: Precompiled Python bytecode for py3-capstone
   maintainers:
     - omni+alpine@hack.org
   licenses:
@@ -829,23 +885,18 @@
     - BSD
   categories:
     - Unspecified
-- repo: devuan_unstable
-  subrepo: unstable/main
-  srcname: capstone
-  binnames:
-    - libcapstone-dev
-    - libcapstone5
-    - capstone-tool
-    - python3-capstone
+- repo: aosc
+  srcname: app-devel/capstone
+  binname: capstone
   visiblename: capstone
-  version: 5.0.9
-  origversion: 5.0.9-1
-  status: newest
+  version: 5.0.3
+  origversion: 5.0.3-1
+  status: outdated
+  summary: A lightweight multi-platform, multi-architecture disassembly framework
   maintainers:
-    - team+pkg-security@tracker.debian.org
-    - bobby.prani@gmail.com
+    - fallback-mnt-aosc@repology
   categories:
-    - misc
+    - devel
 - repo: apertis_v2023
   subrepo: v2023/development
   srcname: capstone
@@ -924,6 +975,17 @@
 - repo: arch
   subrepo: extra
   srcname: capstone
+  binname: capstone
+  visiblename: capstone
+  version: 5.0.9
+  origversion: 5.0.9-1
+  status: newest
+  summary: Lightweight multi-platform, multi-architecture disassembly framework
+  licenses:
+    - BSD-3-Clause
+- repo: arch
+  subrepo: extra
+  srcname: capstone
   binname: python-capstone
   visiblename: python-capstone
   version: 5.0.9
@@ -959,8 +1021,8 @@
 - repo: artix
   subrepo: world
   srcname: capstone
-  binname: capstone
-  visiblename: capstone
+  binname: python-capstone
+  visiblename: python-capstone
   version: 5.0.9
   origversion: 5.0.9-1
   status: newest
@@ -970,8 +1032,8 @@
 - repo: artix
   subrepo: world
   srcname: capstone
-  binname: python-capstone
-  visiblename: python-capstone
+  binname: capstone
+  visiblename: capstone
   version: 5.0.9
   origversion: 5.0.9-1
   status: newest
@@ -1105,6 +1167,18 @@
   summary: Ultimate Disassembler (development files)
   licenses:
     - BSD-3-Clause-Clear
+- repo: nix_stable_25_11
+  srcname: capstone_4
+  visiblename: capstone
+  version: 4.0.2
+  origversion: null
+  status: legacy
+  summary: Advanced disassembly library
+  maintainers:
+    - aseipp@pobox.com
+    - code@humanleg.org.uk
+  licenses:
+    - BSD-3-Clause
 - repo: chimera
   subrepo: main
   srcname: capstone
@@ -1145,7 +1219,7 @@
   origversion: null
   status: outdated
 - repo: debian_11
-  subrepo: bullseye-security/main
+  subrepo: bullseye/main
   srcname: capstone
   binnames:
     - libcapstone-dev
@@ -1162,7 +1236,7 @@
   categories:
     - misc
 - repo: debian_11
-  subrepo: bullseye/main
+  subrepo: bullseye-security/main
   srcname: capstone
   binnames:
     - libcapstone-dev
@@ -1230,23 +1304,6 @@
   categories:
     - misc
 - repo: debian_13
-  subrepo: trixie-security/main
-  srcname: capstone
-  binnames:
-    - libcapstone-dev
-    - libcapstone5
-    - capstone-tool
-    - python3-capstone
-  visiblename: capstone
-  version: 5.0.6
-  origversion: 5.0.6-1
-  status: legacy
-  maintainers:
-    - team+pkg-security@tracker.debian.org
-    - bobby.prani@gmail.com
-  categories:
-    - misc
-- repo: debian_13
   subrepo: trixie/main
   srcname: capstone
   binnames:
@@ -1258,6 +1315,23 @@
   version: 5.0.7
   origversion: 5.0.7-1~deb13u1
   status: outdated
+  maintainers:
+    - team+pkg-security@tracker.debian.org
+    - bobby.prani@gmail.com
+  categories:
+    - misc
+- repo: debian_13
+  subrepo: trixie-security/main
+  srcname: capstone
+  binnames:
+    - libcapstone-dev
+    - libcapstone5
+    - capstone-tool
+    - python3-capstone
+  visiblename: capstone
+  version: 5.0.6
+  origversion: 5.0.6-1
+  status: legacy
   maintainers:
     - team+pkg-security@tracker.debian.org
     - bobby.prani@gmail.com
@@ -1413,6 +1487,23 @@
     - bobby.prani@gmail.com
   categories:
     - misc
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: capstone
+  binnames:
+    - libcapstone-dev
+    - libcapstone5
+    - capstone-tool
+    - python3-capstone
+  visiblename: capstone
+  version: 5.0.9
+  origversion: 5.0.9-1
+  status: newest
+  maintainers:
+    - team+pkg-security@tracker.debian.org
+    - bobby.prani@gmail.com
+  categories:
+    - misc
 - repo: epel_7
   srcname: capstone
   visiblename: capstone
@@ -1429,25 +1520,6 @@
   visiblename: capstone
   version: 4.0.2
   origversion: 4.0.2-5.el8
-  status: outdated
-  summary: A lightweight multi-platform, multi-architecture disassembly framework
-  licenses:
-    - BSD
-  categories:
-    - Unspecified
-- repo: eurolinux_9
-  subrepo: appstream
-  srcname: capstone
-  binnames:
-    - capstone
-    - capstone-devel
-    - python3-capstone
-    - capstone-java
-    - capstone-debuginfo
-    - capstone-debugsource
-  visiblename: capstone
-  version: 4.0.2
-  origversion: 4.0.2-10.el9
   status: outdated
   summary: A lightweight multi-platform, multi-architecture disassembly framework
   licenses:
@@ -1728,6 +1800,20 @@
   status: legacy
   categories:
     - dev-libs
+- repo: liguros_develop
+  srcname: dev-libs/capstone
+  visiblename: dev-libs/capstone
+  version: 5.0.9
+  origversion: null
+  status: newest
+  summary: disassembly/disassembler framework + bindings
+  maintainers:
+    - mario.haustein@hrz.tu-chemnitz.de
+    - proxy-maint@gentoo.org
+  licenses:
+    - BSD
+  categories:
+    - dev-libs
 - repo: haikuports_master
   srcname: dev-libs/capstone
   visiblename: dev-libs/capstone
@@ -1781,23 +1867,6 @@
     - BSD
   categories:
     - dev-libs
-- repo: pardus_21
-  subrepo: updates/main
-  srcname: capstone
-  binnames:
-    - libcapstone-dev
-    - libcapstone4
-    - capstone-tool
-    - python3-capstone
-  visiblename: capstone
-  version: 4.0.2
-  origversion: 4.0.2-3
-  status: outdated
-  maintainers:
-    - team+pkg-security@tracker.debian.org
-    - bobby.prani@gmail.com
-  categories:
-    - misc
 - repo: liguros_stable
   srcname: dev-libs/capstone
   visiblename: dev-libs/capstone
@@ -1874,20 +1943,6 @@
   version: 6.0.0_alpha10
   origversion: null
   status: devel
-  summary: disassembly/disassembler framework + bindings
-  maintainers:
-    - mario.haustein@hrz.tu-chemnitz.de
-    - proxy-maint@gentoo.org
-  licenses:
-    - BSD
-  categories:
-    - dev-libs
-- repo: liguros_develop
-  srcname: dev-libs/capstone
-  visiblename: dev-libs/capstone
-  version: 5.0.9
-  origversion: null
-  status: newest
   summary: disassembly/disassembler framework + bindings
   maintainers:
     - mario.haustein@hrz.tu-chemnitz.de
@@ -2046,18 +2101,6 @@
   summary: Lightweight multi-platform, multi-architecture disassembly framework
   licenses:
     - BSD-3-Clause
-- repo: nix_stable_25_05
-  srcname: capstone_4
-  visiblename: capstone
-  version: 4.0.2
-  origversion: null
-  status: legacy
-  summary: Advanced disassembly library
-  maintainers:
-    - aseipp@pobox.com
-    - code@humanleg.org.uk
-  licenses:
-    - BSD-3-Clause
 - repo: msys2_clang64
   srcname: mingw-w64-capstone
   binname: mingw-w64-clang-x86_64-capstone
@@ -2068,16 +2111,6 @@
   summary: Lightweight multi-platform, multi-architecture disassembly framework (mingw-w64)
   licenses:
     - spdx:BSD-3-Clause
-- repo: spack
-  srcname: capstone
-  visiblename: capstone
-  version: 5.0.1
-  origversion: null
-  status: outdated
-  maintainers:
-    - fallback-mnt-spack@repology
-  licenses:
-    - BSD-3-Clause-Clear
 - repo: msys2_clang64
   srcname: mingw-w64-capstone
   binname: mingw-w64-clang-x86_64-python-capstone
@@ -2088,6 +2121,23 @@
   summary: Lightweight multi-platform, multi-architecture disassembly framework (mingw-w64)
   licenses:
     - spdx:BSD-3-Clause
+- repo: openeuler_24_09
+  srcname: capstone
+  binnames:
+    - capstone
+    - capstone-devel
+    - python3-capstone
+    - capstone-debuginfo
+    - capstone-debugsource
+  visiblename: capstone
+  version: 5.0.1
+  origversion: 5.0.1-1.oe2409
+  status: outdated
+  summary: A lightweight multi-platform, multi-architecture disassembly framework
+  licenses:
+    - BSD
+  categories:
+    - Unspecified
 - repo: msys2_clangarm64
   srcname: mingw-w64-capstone
   binname: mingw-w64-clang-aarch64-python-capstone
@@ -2210,12 +2260,12 @@
     - code@humanleg.org.uk
   licenses:
     - BSD-3-Clause
-- repo: nix_stable_25_11
-  srcname: capstone
+- repo: nix_stable_25_05
+  srcname: capstone_4
   visiblename: capstone
-  version: 5.0.7
+  version: 4.0.2
   origversion: null
-  status: outdated
+  status: legacy
   summary: Advanced disassembly library
   maintainers:
     - aseipp@pobox.com
@@ -2223,11 +2273,11 @@
   licenses:
     - BSD-3-Clause
 - repo: nix_stable_25_11
-  srcname: capstone_4
+  srcname: capstone
   visiblename: capstone
-  version: 4.0.2
+  version: 5.0.7
   origversion: null
-  status: legacy
+  status: outdated
   summary: Advanced disassembly library
   maintainers:
     - aseipp@pobox.com
@@ -2367,18 +2417,6 @@
     - BSD
   categories:
     - Unspecified
-- repo: opensuse_leap_15_6
-  subrepo: main/oss
-  srcname: capstone
-  visiblename: capstone
-  version: 4.0.2
-  origversion: 4.0.2-150500.1.3
-  status: outdated
-  summary: A multi-platform, multi-architecture disassembly framework
-  licenses:
-    - BSD-3-Clause
-  categories:
-    - Development/Tools/Building
 - repo: openeuler_24_03_lts
   srcname: capstone
   binnames:
@@ -2407,23 +2445,6 @@
   visiblename: capstone
   version: "5.0"
   origversion: 5.0-1.oe2403sp1
-  status: outdated
-  summary: A lightweight multi-platform, multi-architecture disassembly framework
-  licenses:
-    - BSD
-  categories:
-    - Unspecified
-- repo: openeuler_24_09
-  srcname: capstone
-  binnames:
-    - capstone
-    - capstone-devel
-    - python3-capstone
-    - capstone-debuginfo
-    - capstone-debugsource
-  visiblename: capstone
-  version: 5.0.1
-  origversion: 5.0.1-1.oe2409
   status: outdated
   summary: A lightweight multi-platform, multi-architecture disassembly framework
   licenses:
@@ -2561,6 +2582,18 @@
   categories:
     - Development/Tools/Building
 - repo: opensuse_leap_15_6
+  subrepo: main/oss
+  srcname: capstone
+  visiblename: capstone
+  version: 4.0.2
+  origversion: 4.0.2-150500.1.3
+  status: outdated
+  summary: A multi-platform, multi-architecture disassembly framework
+  licenses:
+    - BSD-3-Clause
+  categories:
+    - Development/Tools/Building
+- repo: opensuse_leap_15_6
   subrepo: updates/sle
   srcname: capstone
   visiblename: capstone
@@ -2596,8 +2629,8 @@
 - repo: parabola
   subrepo: extra
   srcname: capstone
-  binname: python-capstone
-  visiblename: python-capstone
+  binname: capstone
+  visiblename: capstone
   version: 5.0.9
   origversion: 5.0.9-1
   status: newest
@@ -2607,8 +2640,8 @@
 - repo: parabola
   subrepo: extra
   srcname: capstone
-  binname: capstone
-  visiblename: capstone
+  binname: python-capstone
+  visiblename: python-capstone
   version: 5.0.9
   origversion: 5.0.9-1
   status: newest
@@ -2616,7 +2649,7 @@
   licenses:
     - BSD-3-Clause
 - repo: pardus_21
-  subrepo: main
+  subrepo: updates/main
   srcname: capstone
   binnames:
     - libcapstone-dev
@@ -2626,40 +2659,6 @@
   visiblename: capstone
   version: 4.0.2
   origversion: 4.0.2-3
-  status: outdated
-  maintainers:
-    - team+pkg-security@tracker.debian.org
-    - bobby.prani@gmail.com
-  categories:
-    - misc
-- repo: parrot
-  subrepo: parrot-updates/main
-  srcname: capstone
-  binnames:
-    - libcapstone-dev
-    - libcapstone5
-    - capstone-tool
-    - python3-capstone
-  visiblename: capstone
-  version: 5.0.7
-  origversion: 5.0.7-1~deb13u1
-  status: outdated
-  maintainers:
-    - team+pkg-security@tracker.debian.org
-    - bobby.prani@gmail.com
-  categories:
-    - misc
-- repo: parrot
-  subrepo: parrot/main
-  srcname: capstone
-  binnames:
-    - libcapstone-dev
-    - libcapstone5
-    - capstone-tool
-    - python3-capstone
-  visiblename: capstone
-  version: 5.0.7
-  origversion: 5.0.7-1~deb13u1
   status: outdated
   maintainers:
     - team+pkg-security@tracker.debian.org
@@ -2895,15 +2894,6 @@
     - BSD
   categories:
     - System/Libraries
-- repo: scoop
-  subrepo: main
-  binname: capstone
-  visiblename: capstone
-  version: 4.0.2
-  origversion: null
-  status: outdated
-  licenses:
-    - BSD-3-Clause-Clear
 - repo: slackbuilds
   srcname: system/capstone
   visiblename: system/capstone
@@ -2956,6 +2946,16 @@
     - BSD-3-Clause
   categories:
     - programming.devel
+- repo: spack
+  srcname: capstone
+  visiblename: capstone
+  version: 5.0.1
+  origversion: null
+  status: outdated
+  maintainers:
+    - fallback-mnt-spack@repology
+  licenses:
+    - BSD-3-Clause-Clear
 - repo: stalix
   srcname: lib/cap/stone
   binname: lib/cap/stone
