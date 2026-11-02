@@ -42,18 +42,18 @@ Total: **2,672,657** lines of code across **3553** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 49 · **Merged PRs**: 1377 · **Open PRs**: 22 · **Closed issues**: 1119 · **Open issues**: 332 · **Commits**: 5525
+- **Releases**: 49 · **Merged PRs**: 1377 · **Open PRs**: 23 · **Closed issues**: 1119 · **Open issues**: 332 · **Commits**: 5525
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 23 | 10 | 4 | 4 | 31 |
-| last60d | 2026-09-02 | 1 | 47 | 13 | 9 | 8 | 58 |
-| 90d | 2026-08-03 | 1 | 79 | 13 | 20 | 13 | 80 |
-| last180d | 2026-05-05 | 6 | 153 | 16 | 29 | 17 | 141 |
-| 360d | 2025-11-06 | 9 | 204 | 19 | 54 | 29 | 193 |
-| last720d | 2024-11-11 | 16 | 341 | 22 | 124 | 68 | 315 |
+| 30d | 2026-10-03 | 0 | 22 | 11 | 3 | 4 | 24 |
+| last60d | 2026-09-03 | 1 | 46 | 14 | 9 | 8 | 49 |
+| 90d | 2026-08-04 | 1 | 77 | 14 | 20 | 13 | 75 |
+| last180d | 2026-05-06 | 6 | 153 | 17 | 29 | 17 | 138 |
+| 360d | 2025-11-07 | 9 | 204 | 20 | 54 | 29 | 189 |
+| last720d | 2024-11-12 | 16 | 341 | 23 | 124 | 68 | 315 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for capstone lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:04:47Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T05:59:31Z._
