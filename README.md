@@ -38,22 +38,22 @@ Total: **2,672,797** lines of code across **3553** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 9,170 · **Forks**: 1,743 · **Open issues**: 1,451 · **Contributors**: 323
+- **Stars**: 9,168 · **Forks**: 1,741 · **Open issues**: 1,452 · **Contributors**: 323
 
 ## Totals (cumulative)
 
-- **Releases**: 49 · **Merged PRs**: 1382 · **Open PRs**: 20 · **Closed issues**: 1121 · **Open issues**: 330 · **Commits**: 5528
+- **Releases**: 49 · **Merged PRs**: 1382 · **Open PRs**: 20 · **Closed issues**: 1121 · **Open issues**: 331 · **Commits**: 5528
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 25 | 8 | 3 | 2 | 27 |
-| last60d | 2026-09-07 | 1 | 51 | 11 | 9 | 6 | 52 |
-| 90d | 2026-08-08 | 1 | 78 | 11 | 18 | 12 | 78 |
-| last180d | 2026-05-10 | 6 | 155 | 14 | 29 | 16 | 141 |
-| 360d | 2025-11-11 | 9 | 209 | 16 | 55 | 27 | 192 |
-| last720d | 2024-11-16 | 16 | 346 | 20 | 124 | 66 | 316 |
+| 30d | 2026-10-08 | 0 | 25 | 8 | 3 | 3 | 27 |
+| last60d | 2026-09-08 | 1 | 49 | 11 | 9 | 7 | 52 |
+| 90d | 2026-08-09 | 1 | 78 | 11 | 18 | 13 | 78 |
+| last180d | 2026-05-11 | 6 | 154 | 14 | 29 | 17 | 141 |
+| 360d | 2025-11-12 | 9 | 209 | 16 | 55 | 28 | 192 |
+| last720d | 2024-11-17 | 16 | 346 | 20 | 124 | 67 | 316 |
 
 ## Release assets
 
@@ -67,11 +67,11 @@ Total: **2,672,797** lines of code across **3553** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **234** distros on [repology.org](https://repology.org/project/capstone). **67** are ✅ on the latest upstream release, **137** are ⚠️ on an older version.
+Reported by **235** distros on [repology.org](https://repology.org/project/capstone). **72** are ✅ on the latest upstream release, **133** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Debian unstable | `5.0.7` | 🪦 legacy |
+| Debian unstable | `5.0.9` | ✅ latest |
 | Debian 14 | `5.0.9` | ✅ latest |
 | Debian 13 | `5.0.7` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `5.0.7` | ⚠️ outdated |
@@ -93,4 +93,4 @@ Install metadata for capstone lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T06:43:24Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T05:56:01Z._
