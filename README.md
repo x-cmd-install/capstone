@@ -14,13 +14,13 @@ x install capstone
 
 ## Code insight
 
-Total: **2,672,870** lines of code across **3553** files in the top 5 languages.
+Total: **2,672,933** lines of code across **3553** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Bitbake | 1,522,498 | 123,605 | 61,866 | 201 |
 | Yaml | 855,768 | 539 | 65,318 | 1858 |
-| C | 81,535 | 4,972 | 10,045 | 202 |
+| C | 81,598 | 4,972 | 10,047 | 202 |
 | CSharp | 65,902 | 98 | 327 | 1090 |
 | CHeader | 50,885 | 3,843 | 3,485 | 202 |
 
@@ -33,27 +33,27 @@ Total: **2,672,870** lines of code across **3553** files in the top 5 languages.
 ## Release
 
 - **Latest**: `6.0.0-Alpha11` (2026-09-21)
-- **Last commit**: 2026-11-16
+- **Last commit**: 2026-11-18
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 9,198 · **Forks**: 1,752 · **Open issues**: 1,454 · **Contributors**: 323
+- **Stars**: 9,204 · **Forks**: 1,757 · **Open issues**: 1,454 · **Contributors**: 323
 
 ## Totals (cumulative)
 
-- **Releases**: 49 · **Merged PRs**: 1386 · **Open PRs**: 23 · **Closed issues**: 1124 · **Open issues**: 330 · **Commits**: 5531
+- **Releases**: 49 · **Merged PRs**: 1387 · **Open PRs**: 30 · **Closed issues**: 1125 · **Open issues**: 329 · **Commits**: 5532
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 16 | 11 | 1 | 3 | 9 |
-| last60d | 2026-09-18 | 1 | 49 | 13 | 8 | 8 | 46 |
-| 90d | 2026-08-19 | 1 | 72 | 14 | 15 | 10 | 74 |
-| last180d | 2026-05-21 | 6 | 148 | 17 | 29 | 18 | 135 |
-| 360d | 2025-11-22 | 9 | 210 | 19 | 53 | 28 | 195 |
-| last720d | 2024-11-27 | 15 | 342 | 23 | 126 | 64 | 313 |
+| 30d | 2026-10-20 | 0 | 15 | 18 | 2 | 2 | 10 |
+| last60d | 2026-09-20 | 1 | 48 | 20 | 9 | 7 | 47 |
+| 90d | 2026-08-21 | 1 | 73 | 21 | 15 | 9 | 75 |
+| last180d | 2026-05-23 | 6 | 147 | 24 | 30 | 17 | 136 |
+| 360d | 2025-11-24 | 9 | 211 | 26 | 54 | 27 | 196 |
+| last720d | 2024-11-29 | 15 | 342 | 30 | 124 | 63 | 314 |
 
 ## Release assets
 
@@ -67,7 +67,7 @@ Total: **2,672,870** lines of code across **3553** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **237** distros on [repology.org](https://repology.org/project/capstone). **74** are ✅ on the latest upstream release, **130** are ⚠️ on an older version.
+Reported by **236** distros on [repology.org](https://repology.org/project/capstone). **74** are ✅ on the latest upstream release, **129** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -93,4 +93,4 @@ Install metadata for capstone lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T08:03:32Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T09:03:37Z._
