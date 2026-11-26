@@ -33,27 +33,27 @@ Total: **2,674,346** lines of code across **3553** files in the top 5 languages.
 ## Release
 
 - **Latest**: `6.0.0-Alpha11` (2026-09-21)
-- **Last commit**: 2026-11-24
+- **Last commit**: 2026-11-25
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 9,215 · **Forks**: 1,758 · **Open issues**: 1,454 · **Contributors**: 324
+- **Stars**: 9,220 · **Forks**: 1,759 · **Open issues**: 1,455 · **Contributors**: 324
 
 ## Totals (cumulative)
 
-- **Releases**: 49 · **Merged PRs**: 1399 · **Open PRs**: 28 · **Closed issues**: 1127 · **Open issues**: 327 · **Commits**: 5541
+- **Releases**: 49 · **Merged PRs**: 1401 · **Open PRs**: 26 · **Closed issues**: 1127 · **Open issues**: 328 · **Commits**: 5542
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 21 | 15 | 2 | 1 | 16 |
-| last60d | 2026-09-26 | 0 | 54 | 17 | 8 | 4 | 51 |
-| 90d | 2026-08-27 | 1 | 79 | 19 | 15 | 9 | 76 |
-| last180d | 2026-05-29 | 3 | 146 | 22 | 27 | 17 | 131 |
-| 360d | 2025-11-30 | 9 | 222 | 24 | 54 | 27 | 202 |
-| last720d | 2024-12-05 | 15 | 352 | 28 | 122 | 61 | 323 |
+| 30d | 2026-10-27 | 0 | 20 | 13 | 2 | 2 | 0 |
+| last60d | 2026-09-27 | 0 | 55 | 15 | 8 | 5 | 0 |
+| 90d | 2026-08-28 | 1 | 79 | 17 | 15 | 10 | 0 |
+| last180d | 2026-05-30 | 2 | 148 | 20 | 27 | 18 | 0 |
+| 360d | 2025-12-01 | 9 | 224 | 22 | 54 | 28 | 0 |
+| last720d | 2024-12-06 | 15 | 352 | 26 | 120 | 61 | 318 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for capstone lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:43:36Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:23:55Z._
